@@ -1,0 +1,9 @@
+EXTRAP AND CHECK!
+PLEASE READ run.php FIRST!
+
+NOT COMPATIBLE FOR WINDOWS USER
+Checker limited with $1 - $4 only.
+CHECKER FROM MRCHECKER.NET
+alt text
+php run.php
+BOOLEAN = 1 or 0
