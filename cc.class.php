@@ -59,7 +59,7 @@ class CC
         $banner.= "|   Insert bin with 'x' maybe  |\n";
         $banner.= "| fred.torvalds. |\n";
         $banner.= "|------------------------------|\n";
-        $banner.= "|-                bu özel tooldur|\n";
+        $banner.= "|-                bu Ã¶zel tooldur|\n";
         $banner.= "|==============================|\n\n";
         print $banner;
     }
