@@ -48,19 +48,19 @@ class CC
     }
     protected function LoadBanner () 
     {
-        $banner = "|==============================|\n";
-        $banner.= "|   o-o   o-o  o-o  o--o       |\n";
-        $banner.= "|  /     /    o     |          |\n";
-        $banner.= "| O     O     |  -o O-o  o-o   |\n";
-        $banner.= "|  \     \    o   | |    |  |  |\n";
-        $banner.= "|   o-o   o-o  o-o  o--o o  o  |\n";
-        $banner.= "|------------------------------|\n";
-        $banner.= "|   V.2  !-- SAHMAT --!         |\n";
-        $banner.= "|   Insert bin with 'x' maybe  |\n";
-        $banner.= "| fred.torvalds. |\n";
-        $banner.= "|------------------------------|\n";
-        $banner.= "|-                bu özel tooldur|\n";
-        $banner.= "|==============================|\n\n";
+        $banner = "|==============================|
+        $banner.= "|  Cahille sohbet etmek güçtür bilene ,
+        $banner.= "| çünkü cahil ne gelirse söyler diline,
+        $banner.= "|.................................
+        $banner.= "|.................................
+        $banner.= "|,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+        $banner.= "|:":flag_tr:":":flag_tr:":":flag_tr:"
+        $banner.= "| DİKKAT   
+        $banner.= "| bu toolu veled-i zina
+        $banner.= "| cocukları kullanamaz
+        $banner.= "|
+        $banner.= "|-                bu özel tooldur
+        $banner.= "|==============================|
         print $banner;
     }
     protected function generateYears()
@@ -141,7 +141,7 @@ class CC
         $headers[] = 'Connection: keep-alive';
         $ch = curl_init();
         $options = array(
-            CURLOPT_URL             => "http://elry2cc.com/ElrY2_Checker/api.php",
+            CURLOPT_URL             => "https://validcreditcardnumber.net/bin-codes-checker.php",
             CURLOPT_RETURNTRANSFER  => true,
             CURLOPT_POST            => true,
             CURLOPT_POSTFIELDS      => "data=".urlencode($card),
